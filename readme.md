@@ -29,6 +29,8 @@ The script should generate a `SURNAME_{problem}.pt` torch file on the current fo
 with a single tensor of size (N, 1) where N is the number of inputs. Submissions that fail to follow this format will
 receive a score of 0.
 
+The scripts should be sent to me by email by the 17th of October.
+
 
 # Evaluation
 
